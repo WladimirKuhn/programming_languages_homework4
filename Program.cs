@@ -29,7 +29,7 @@ while (true)
     }
 }
 
-Задача 2
+//Задача 2
 
 int[] CreateArray(int size)
 {
